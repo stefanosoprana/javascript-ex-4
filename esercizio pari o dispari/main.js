@@ -9,7 +9,6 @@ function checkIfEven(numero) {
   var risultato = (numero % 2 == 0);
 
   return risultato;
-
 }
 
 var numero_utente = 4
