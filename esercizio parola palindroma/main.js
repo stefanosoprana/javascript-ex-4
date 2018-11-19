@@ -1,3 +1,5 @@
+// Una funziona per capire se la parola è palindroma
+
 function checkPalindrom(str) {
     return str == str.split('').reverse().join('');
 }
